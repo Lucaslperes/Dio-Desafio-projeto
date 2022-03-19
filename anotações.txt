@@ -1,1 +1,1 @@
-Introdução
+Este repositório será exclusivo para treinar estruras de dados e algoritmos com programação em java.
